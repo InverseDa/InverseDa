@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @InverseDa
 - 👀 I’m interested in Computer Graphics and Linux Kernel
 - 🌱 I’m currently learning Game Engine
-- 
 - 💞️ I’m looking to collaborate on finding good hobbies
 - 📫 Contact me via inverseboom@gmail.com
 
